@@ -3,7 +3,7 @@
 **ゴール**: `ndarray` の基本的な性質（形状・次元・型）を理解する
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/YourUser/YourRepo/blob/main/notebooks/10_numpy/array_basics.ipynb)
+https://colab.research.google.com/github/yokayoka/ml-seminar/blob/main/notebooks/10_numpy/array_basics.ipynb)
 
 ---
 この教材では次を学びます:
