@@ -18,3 +18,4 @@ nav:
   - 学習トラック:
     - 1_Numpy入門: tracks/10_numpy.md
     - 2_pandas入門: tracks/20_pandas.md
+    - 3_scikit-learn基礎: tracks/30_sklearn.md
