@@ -1,0 +1,20 @@
+site_name: MLゼミノート
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - content.code.copy
+    - search.suggest
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - tables
+nav:
+  - はじめに: index.md
+  - 学習トラック:
+    - 1_Numpy入門: tracks/10_numpy.md
+    - 2_pandas入門: tracks/20_pandas.md
