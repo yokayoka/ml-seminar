@@ -21,6 +21,9 @@ nav:
       - tracks/10_numpy_array.md
       - tracks/10_numpy_array.md
       - tracks/10_numpy_basic.md
-    - 2_pandas入門: tracks/20_pandas.md
+    - 2_pandas入門:
+      - tracks/20_pandas.md
+      - tracks/20_series_basic.md
+      - tracks/20_pandas_basic.md
     - 3_scikit-learn基礎: tracks/30_sklearn.md
     - 4_モデル評価: tracks/40_eval.md 
