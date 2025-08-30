@@ -1,4 +1,4 @@
-# pandas 入門
+# pandas 概要
 **ゴール**: データフレームの基本操作・集計・可視化・前処理
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
