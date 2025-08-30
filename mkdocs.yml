@@ -28,5 +28,10 @@ nav:
       - tracks/20_index01.md
       - tracks/20_alter_index.md
       - tracks/20_drop.md
+      - tracks/20_crop.md
+      - tracks/20_add.md
+      - tracks/20_sort.md
+      - tracks/20_stat.md
+      - tracks/20_nodata.md
     - 3_scikit-learn基礎: tracks/30_sklearn.md
     - 4_モデル評価: tracks/40_eval.md 
